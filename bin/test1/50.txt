@@ -1,0 +1,20 @@
+**************************   Day 50 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Thomas             |
+
+|Anna               |Jakob              |Trevor             |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************

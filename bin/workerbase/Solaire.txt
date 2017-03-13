@@ -1,0 +1,6 @@
+Solaire
+true
+true
+true
+1
+

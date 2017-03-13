@@ -1,0 +1,20 @@
+**************************   Day 73 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Thomas             |Vikar              |Vikar              
+
+|Trevor             |Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************

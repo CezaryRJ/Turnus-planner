@@ -1,0 +1,20 @@
+**************************   Day 62 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Vikar              |Vikar              |Vikar              
+
+|Vikar              |Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************

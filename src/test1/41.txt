@@ -1,0 +1,20 @@
+**************************   Day 41 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Thomas             |Vikar              |Vikar              
+
+|Trevor             |Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************

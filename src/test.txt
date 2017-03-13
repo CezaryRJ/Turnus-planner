@@ -1,0 +1,1680 @@
+**************************   Day 0  *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 1  *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 2  *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 3  *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 4  *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 5  *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 6  *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Thomas             |Vikar              |Vikar              
+
+|Trevor             |Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 7  *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 8  *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 9  *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 10 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 11 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 12 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 13 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Thomas             |Vikar              |Vikar              
+
+|Trevor             |Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 14 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 15 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 16 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 17 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 18 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 19 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 20 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Thomas             |Vikar              |Vikar              
+
+|Trevor             |Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 21 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 22 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 23 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 24 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 25 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 26 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 27 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Thomas             |Vikar              |Vikar              
+
+|Trevor             |Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 28 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 29 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 30 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 31 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 32 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 33 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 34 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Thomas             |Vikar              |Vikar              
+
+|Trevor             |Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 35 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 36 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 37 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 38 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 39 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 40 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 41 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Thomas             |Vikar              |Vikar              
+
+|Trevor             |Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 42 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 43 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 44 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 45 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 46 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 47 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Snake              |
+
+|Anna               |Jakob              |Solaire            |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 48 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Vikar              |Vikar              |Vikar              
+
+|Vikar              |Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 49 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Thomas             |
+
+|Anna               |Jakob              |Trevor             |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 50 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Thomas             |
+
+|Anna               |Jakob              |Trevor             |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 51 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Thomas             |
+
+|Anna               |Jakob              |Trevor             |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 52 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Thomas             |
+
+|Anna               |Jakob              |Trevor             |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 53 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Thomas             |
+
+|Anna               |Jakob              |Trevor             |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 54 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Thomas             |
+
+|Anna               |Jakob              |Trevor             |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 55 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Vikar              |Vikar              |Vikar              
+
+|Vikar              |Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 56 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Thomas             |
+
+|Anna               |Jakob              |Trevor             |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 57 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Thomas             |
+
+|Anna               |Jakob              |Trevor             |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 58 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Thomas             |
+
+|Anna               |Jakob              |Trevor             |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 59 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Thomas             |
+
+|Anna               |Jakob              |Trevor             |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 60 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Ida                |Thomas             |
+
+|Anna               |Jakob              |Trevor             |
+
+|Anon               |Janne              
+
+|Arne               |Jorgen             
+
+|Artorias           |Karl               
+
+|Fillip             |Lucian             
+
+                    |Nils
+
+                    |Per
+
+*************************************************************
+**************************   Day 61 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Thomas             |Vikar              
+
+|Anna               |Trevor             |Vikar              
+
+|Anon               |Vikar              
+
+|Arne               |Vikar              
+
+|Artorias           |Vikar              
+
+|Fillip             |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 62 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Vikar              |Vikar              |Vikar              
+
+|Vikar              |Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 63 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Thomas             |Vikar              
+
+|Anna               |Trevor             |Vikar              
+
+|Anon               |Vikar              
+
+|Arne               |Vikar              
+
+|Artorias           |Vikar              
+
+|Fillip             |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 64 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Thomas             |Vikar              
+
+|Anna               |Trevor             |Vikar              
+
+|Anon               |Vikar              
+
+|Arne               |Vikar              
+
+|Artorias           |Vikar              
+
+|Fillip             |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 65 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Thomas             |Vikar              
+
+|Anna               |Trevor             |Vikar              
+
+|Anon               |Vikar              
+
+|Arne               |Vikar              
+
+|Artorias           |Vikar              
+
+|Fillip             |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 66 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Thomas             |Vikar              
+
+|Anna               |Trevor             |Vikar              
+
+|Anon               |Vikar              
+
+|Arne               |Vikar              
+
+|Artorias           |Vikar              
+
+|Fillip             |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 67 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Thomas             |Vikar              
+
+|Anna               |Trevor             |Vikar              
+
+|Anon               |Vikar              
+
+|Arne               |Vikar              
+
+|Artorias           |Vikar              
+
+|Fillip             |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 68 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Andreas            |Thomas             |Vikar              
+
+|Anna               |Trevor             |Vikar              
+
+|Anon               |Vikar              
+
+|Arne               |Vikar              
+
+|Artorias           |Vikar              
+
+|Fillip             |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 69 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Vikar              |Vikar              |Vikar              
+
+|Vikar              |Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 70 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Thomas             |Vikar              |Vikar              
+
+|Trevor             |Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 71 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Thomas             |Vikar              |Vikar              
+
+|Trevor             |Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 72 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Thomas             |Vikar              |Vikar              
+
+|Trevor             |Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 73 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Thomas             |Vikar              |Vikar              
+
+|Trevor             |Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 74 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Thomas             |Vikar              |Vikar              
+
+|Trevor             |Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 75 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Thomas             |Vikar              |Vikar              
+
+|Trevor             |Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 76 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Vikar              |Vikar              |Vikar              
+
+|Vikar              |Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 77 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Thomas             |Vikar              |Vikar              
+
+|Trevor             |Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 78 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Thomas             |Vikar              |Vikar              
+
+|Trevor             |Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 79 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Thomas             |Vikar              |Vikar              
+
+|Trevor             |Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 80 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Thomas             |Vikar              |Vikar              
+
+|Trevor             |Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 81 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Thomas             |Vikar              |Vikar              
+
+|Trevor             |Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 82 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Thomas             |Vikar              |Vikar              
+
+|Trevor             |Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
+**************************   Day 83 *************************
+|       DAY         |      AFTERNOON    |       NIGHT       |
+
+|Vikar              |Vikar              |Vikar              
+
+|Vikar              |Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+|Vikar              |Vikar              
+
+                    |Vikar              
+
+                    |Vikar              
+
+*************************************************************
