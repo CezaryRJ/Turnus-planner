@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cezary\\Desktop\\arduino\\Turnus-planner\\Turnus-planner\\Turnus-planner.csproj": {}
+    "C:\\Users\\Cezary\\Desktop\\perl\\Turnus-planner\\Turnus-planner\\Turnus-planner.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cezary\\Desktop\\arduino\\Turnus-planner\\Turnus-planner\\Turnus-planner.csproj": {
+    "C:\\Users\\Cezary\\Desktop\\perl\\Turnus-planner\\Turnus-planner\\Turnus-planner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cezary\\Desktop\\arduino\\Turnus-planner\\Turnus-planner\\Turnus-planner.csproj",
+        "projectUniqueName": "C:\\Users\\Cezary\\Desktop\\perl\\Turnus-planner\\Turnus-planner\\Turnus-planner.csproj",
         "projectName": "Turnus-planner",
-        "projectPath": "C:\\Users\\Cezary\\Desktop\\arduino\\Turnus-planner\\Turnus-planner\\Turnus-planner.csproj",
+        "projectPath": "C:\\Users\\Cezary\\Desktop\\perl\\Turnus-planner\\Turnus-planner\\Turnus-planner.csproj",
         "packagesPath": "C:\\Users\\Cezary\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cezary\\Desktop\\arduino\\Turnus-planner\\Turnus-planner\\obj\\",
+        "outputPath": "C:\\Users\\Cezary\\Desktop\\perl\\Turnus-planner\\Turnus-planner\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cezary\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
